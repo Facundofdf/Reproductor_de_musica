@@ -1,0 +1,23 @@
+{
+    "ancho": 50,
+    "alto": 50,
+    "paths": [
+        "IMG\\play.png", 
+        "IMG\\pause2.png", 
+        "IMG\\stop.png",
+        "IMG\\up.png", 
+        "IMG\\down.png", 
+        "IMG\\mute.png",
+        "IMG\\unmute.png"
+    ],
+    "posicion_inicial": [65, 220],
+    "acciones": [
+        "reproducir_musica", 
+        "pausar_musica", 
+        "detener_musica", 
+        "subir_volumen", 
+        "bajar_volumen", 
+        "mutear", 
+        "desmutear"
+    ]
+}
